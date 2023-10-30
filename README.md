@@ -1,2 +1,2 @@
 # git-github-demo
-author -stable
+author -stable diffusion
